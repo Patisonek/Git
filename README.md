@@ -1,1 +1,2 @@
-# Gita juz nie ma a mial byc
+# Git to jednak fajna sprawa,a moze i nie
+
